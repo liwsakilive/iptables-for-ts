@@ -1,4 +1,4 @@
-How to use script
+# How to use script
 
 bash setup.sh
 
